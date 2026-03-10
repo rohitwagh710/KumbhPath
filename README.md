@@ -47,12 +47,6 @@ For detailed architecture see the **architecture folder**.
 
 ---
 
-## Demo Video
-
-(Add your demo video link here)
-
----
-
 ## Notice
 
 This repository contains **demonstration documentation and project overview only**.
